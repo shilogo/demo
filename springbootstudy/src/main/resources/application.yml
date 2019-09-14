@@ -1,0 +1,14 @@
+server:
+  port: 8082
+
+student:
+   name: 小明
+   age: 18
+   birthday: 2018/05/12
+   map: {k1: 666,k2: 777}
+   list:
+     - haloa
+     - heihei
+   dag:
+      dagname: 小狗
+      dagage: 5
